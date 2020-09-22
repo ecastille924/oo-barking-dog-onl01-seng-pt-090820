@@ -1,4 +1,9 @@
 class = Dog 
-  def name=(Jeff)
-    @name = 
+  def name=(jeff)
+    @name = jeff
+  end
+  
+  def name
+    @name 
+  end
 end
